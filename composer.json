@@ -1,5 +1,5 @@
 {
-  "name": "qoonmax/laravel-rusender-transport-unofficial",
+  "name": "fandeco/laravel-rusender",
   "description": "RuSender API integration (unofficial) for email dispatch in Laravel applications.",
   "type": "library",
   "license": "MIT",
