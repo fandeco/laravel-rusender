@@ -6,8 +6,17 @@
 ### Шаг 1: Установка пакета
 Чтобы установить пакет, выполните следующую команду в терминале:
 
+```json
+"repositories": [
+        {
+            "url": "https://github.com/fandeco/laravel-rusender.git",
+            "type": "vcs"
+        }
+    ],
+```
+
 ```bash
-composer require qoonmax/laravel-rusender-transport-unofficial:dev-main
+composer require fandeco/laravel-rusender:dev-main
 ```
 
 ### Шаг 2: Публикация файла конфигурации
